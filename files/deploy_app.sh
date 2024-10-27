@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. This is ACME slogan.
+  Welcome to ${PREFIX}'s app. The marketing ACME slogan.
   <!-- END -->
 
   </div>
